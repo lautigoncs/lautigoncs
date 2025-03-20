@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @lautigoncs!
 - 👀 I’m interested in coding, technology, videogames, science, and more
-- 🌱 I’m currently learning Web development 
+- 🌱 I’m currently studying Software Engineering! 
 - 📫 You can reach out to me on Discord: lautititi#4545
